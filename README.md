@@ -17,9 +17,3 @@
   
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelsantoscasotti//) 
-
-
-
-<div align="center">
-  [![Rafael Casotti GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcasotti)](https://github.com/rafaelcasotti/github-readme-stats)
-</div>
