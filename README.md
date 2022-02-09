@@ -6,11 +6,6 @@
 - 🔭 Desenvolvedor Web Júnior em formação pela Generation Brasil
 - 📫 E-mail: rafa_scasotti@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/RafaelCasotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joyce19Mello&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce19Mello&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="40" align="center">
   <img align="center" alt="rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
