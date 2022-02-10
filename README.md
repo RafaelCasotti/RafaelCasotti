@@ -13,7 +13,9 @@
   <img align="center" alt="rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </div>
 
-  
+  <p align="left">
+  💌 Pode falar comigo por aqui: ⤵️
+</p>
   
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelsantoscasotti//) 
