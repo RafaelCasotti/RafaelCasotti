@@ -1,6 +1,6 @@
 
 
-### Seja bem-vindos ao meu Git Hub 👋
+### Seja bem-vindo ao meu Git Hub 👋
 
 - 🌱 Meu nome é Rafael Santos Casotti
 - 🔭 Desenvolvedor Web Júnior em formação pela Generation Brasil
