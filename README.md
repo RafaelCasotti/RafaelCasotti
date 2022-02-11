@@ -5,14 +5,14 @@
 - 🔭 Desenvolvedor Java Jr. em formação pela Generation Brasil
 - 📫 E-mail: rafa_scasotti@hotmail.com
 
-
+ <div align="center"><br>
  <div align="space-between">
   <a href="https://github.com/RafaelCasotti">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelCasotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasotti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- <div align="center"><br>
+
 
    <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="50" align="center">
