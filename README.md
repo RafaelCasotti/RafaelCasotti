@@ -1,9 +1,8 @@
 
 
-### Seja bem-vindo ao meu Git Hub 👋
+### Olá, eu sou o Rafael Casotti! 👋
 
-- 🌱 Meu nome é Rafael Santos Casotti
-- 🔭 Desenvolvedor Web Júnior em formação pela Generation Brasil
+- 🔭 Desenvolvedor Java Jr. em formação pela Generation Brasil
 - 📫 E-mail: rafa_scasotti@hotmail.com
 
 
