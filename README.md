@@ -1,6 +1,8 @@
 
-
+ <div align="center"><br>
 ### Olá, eu sou o Rafael Casotti! 👋
+</div>
+###Seja Bem-Vindo ao Git Hub :)
 
 - 🔭 Desenvolvedor Java Jr. em formação pela Generation Brasil
 - 📫 E-mail: rafa_scasotti@hotmail.com
