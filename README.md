@@ -2,23 +2,24 @@
 
 ### Olá, eu sou o Rafael Casotti! 👋
 
-- 🔭 Desenvolvedor Java Jr. em formação pela Generation Brasil
-- 📫 E-mail: rafa_scasotti@hotmail.com
+- 🔭 Desenvolvedor Web Java Jr. em formação pela Generation Brasil
+- 😄 Pronouns: Ele | He
 
  <div align="center"><br>
  <div align="space-between">
   <a href="https://github.com/RafaelCasotti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelCasotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasotti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelCasotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasotti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 
 
-   <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="50" align="center">
+  <img align="center" alt="rafa-MySql" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img align="center" alt="rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rafa-MySql" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+
 </div>
   
  ##
