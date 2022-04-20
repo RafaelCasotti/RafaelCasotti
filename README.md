@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Rafael Casotti! 👋
 
-- 🔭 Desenvolvedor Web Java Jr. em formação pela Generation Brasil
+- 🔭 Desenvolvedor Full Stack Junior
 - 😄 Pronouns: Ele | He
 
  <div align="center"><br>
