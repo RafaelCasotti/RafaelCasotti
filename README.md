@@ -39,5 +39,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelsantoscasotti//) 
  <a href = "mailto:rafa_scasotti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></div>
  
- ##
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RafaelCasotti/count.svg" /></p>
+
+ <p align="center"> Contador de visitas: 
+  <br>
+ <img alingn="center" src="https://profile-counter.glitch.me/RafaelCasotti/count.svg" /></p>
