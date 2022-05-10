@@ -3,7 +3,7 @@
 ### Olá, eu sou o Rafael Casotti! 👋
 
 - 🌱 Desenvolvedor Full Stack Júnior
-- 😄 Pronouns: Ele | He
+- 😄 Pronome: Ele | He
 - 🔭 Apaixonado por Tecnologia e Inovação 
 
  <div align="center"><br>
