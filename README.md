@@ -9,12 +9,10 @@
  <div align="center"><br>
  <div align="space-between">
   <a href="https://github.com/RafaelCasotti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/apiusername=RafaelCasotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelCasotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasotti&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+   </div
   
-
- 
   <div style="display: inline_block"><br>
     <h3>Back-end</h3>
  <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a> 
